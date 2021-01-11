@@ -19,7 +19,8 @@ Work experience
 ======
 * 2018 - now: Researcher
   * Sorbonne University, Paris Brain Institute
-  * Anatomo-functional organisation of subthalamic nucleus (STN) in human via diffusion Magnetic Resonance Imaging (dMRI)
+  * Anatomo-functional organisation of subthalamic nucleus (STN) in human via
+  diffusion Magnetic Resonance Imaging (dMRI)
     * Duties included: diffusion MRI processing, machine learning
   * Supervisor: Carine Karachi & Eric Bardinet
 
