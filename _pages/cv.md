@@ -19,25 +19,14 @@ Work experience
 ======
 * 2018 - now: Researcher
   * Sorbonne University, Paris Brain Institute
-  * Duties included:
-    * Tractography based sub-parcellation of subthalamic regions in healthy and
-    young subjects from HCP dataset.
-    * Connectivity alterations in Tourette Syndrome: connectivity analysis of
-    hyperdirect and cortico-accumbens pathways. Sub-parcellations of subthalamic
-    region and nucleus accumbens. Classification of patients and controls based
-    on connectivity analysis.
-    * Connectivity profiles of volume of activated tissues in parkinsonian
-    patients treated with  Deep Brain Stimulation (DBS) of STN for improved
-    individual targeting.
-    * Predictability of STN-DBS effects on locomotion and posture  in
-     parkinsonian patients via normative connectivity.
+  * Anatomo-functional organisation of subthalamic nucleus (STN) in human via diffusion Magnetic Resonance Imaging (dMRI)
+    * Duties included: diffusion MRI processing, machine learning
   * Supervisor: Carine Karachi & Eric Bardinet
 
 * 2017 - 2018: Research Engineer
   * Sorbonne University, Paris Brain Institute
-  * Duties included:
-    * Phantom based evaluation of geometric distortions in clinical Magnetic
-    Resonance Imaging (MRI)
+  * Phantom based evaluation of geometric distortions in clinical Magnetic
+  Resonance Imaging (MRI)
   * Supervisor: Eric Bardinet
 
 Skills
